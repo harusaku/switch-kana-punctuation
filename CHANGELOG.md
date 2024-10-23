@@ -1,3 +1,3 @@
-# Toggle Kana Punctuation Changelog
+# Switch Kana Punctuation Changelog
 
 ## [Initial Version] - {PR_MERGE_DATE}

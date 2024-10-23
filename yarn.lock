@@ -1411,6 +1411,21 @@ __metadata:
   languageName: node
   linkType: hard
 
+"switch-kana-punctuation@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "switch-kana-punctuation@workspace:."
+  dependencies:
+    "@raycast/api": "npm:^1.84.3"
+    "@raycast/eslint-config": "npm:^1.0.11"
+    "@raycast/utils": "npm:^1.17.0"
+    "@types/node": "npm:20.8.10"
+    "@types/react": "npm:18.3.3"
+    eslint: "npm:^8.57.0"
+    prettier: "npm:^3.3.3"
+    typescript: "npm:^5.4.5"
+  languageName: unknown
+  linkType: soft
+
 "text-table@npm:^0.2.0":
   version: 0.2.0
   resolution: "text-table@npm:0.2.0"
@@ -1426,21 +1441,6 @@ __metadata:
   checksum: 10c0/487988b0a19c654ff3e1961b87f471702e708fa8a8dd02a298ef16da7206692e8552a0250e8b3e8759270f62e9d8314616f6da274734d3b558b1fc7b7724e892
   languageName: node
   linkType: hard
-
-"toggle-kana-punctuation@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "toggle-kana-punctuation@workspace:."
-  dependencies:
-    "@raycast/api": "npm:^1.84.3"
-    "@raycast/eslint-config": "npm:^1.0.11"
-    "@raycast/utils": "npm:^1.17.0"
-    "@types/node": "npm:20.8.10"
-    "@types/react": "npm:18.3.3"
-    eslint: "npm:^8.57.0"
-    prettier: "npm:^3.3.3"
-    typescript: "npm:^5.4.5"
-  languageName: unknown
-  linkType: soft
 
 "tr46@npm:~0.0.3":
   version: 0.0.3
